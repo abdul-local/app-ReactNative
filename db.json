@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "React native json",
+      "author": "Abdul",
+      "id": 2
+    },
+    {
+      "title": "abdul dev school",
+      "author": "Abdul",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "abdul Hamzan",
+      "email": "abdullah.hamzan",
+      "bidang": "electronika",
+      "size": "300"
+    },
+    {
+      "name": "anisa",
+      "email": "anisa@gmail.com",
+      "bidang": "informatika",
+      "size": "200",
+      "id": 2
+    },
+    {
+      "name": "abdul malik",
+      "email": "malik@gmail.com",
+      "bidang": "informatika",
+      "size": "100",
+      "id": 3
+    },
+    {
+      "name": "yazid",
+      "email": "yazid@gmail.com",
+      "bidang": "STL",
+      "size": "400",
+      "id": 4
+    }
+  ]
+}
